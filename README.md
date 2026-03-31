@@ -3,7 +3,7 @@ Focused learning
 ## 📌 Smart Screen Time Tracker App
 
 ### 1. Overview
-The **Smart Screen Time Tracker App** is designed to help users improve focus by monitoring app usage and reducing distractions. It tracks screen time, classifies apps, and provides timely notifications to control excessive usage.
+The **Focused Learning Application** is designed to help users improve focus by monitoring app usage and reducing distractions. It tracks screen time, classifies apps, and provides timely notifications to control excessive usage.
 
 ---
 
